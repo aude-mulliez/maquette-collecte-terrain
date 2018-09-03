@@ -1,0 +1,248 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_-_composant {
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.shape {
+}
+.image {
+}
+.placeholder {
+}
+.button_-_large {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.button_coch_ {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  color:#00CC00;
+}
+.button_-_toggle {
+  font-family:'Roboto Light', 'Roboto Regular', 'Roboto';
+  font-weight:300;
+  font-style:normal;
+  font-size:14px;
+}
+.button_-_petit {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+.produit {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:right;
+}
+.produit_-___compl_ter {
+  font-size:14px;
+  color:#FF6600;
+  text-align:right;
+}
+.produit_-_compl_t_ {
+  font-size:14px;
+  color:#009900;
+  text-align:right;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.label_champs_de_saisie {
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:left;
+}
+.label_champs_de_saisie_obligatoire {
+  font-size:16px;
+  color:#009900;
+  text-align:left;
+}
+.label_champs_de_saisie___exclure {
+  font-size:16px;
+  color:#CC0000;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  font-size:16px;
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.flow_shape {
+}
+.snapshot {
+}
+.html_button {
+  text-align:center;
+}
+.connector {
+  font-size:14px;
+}
+.menu_item {
+}
+.icon {
+}
+.image1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.ellipse {
+}
+.materialicons {
+  font-family:'Material Icons';
+  font-weight:400;
+  font-style:normal;
+  font-size:48px;
+  color:#000000;
+}
+.paragraph1 {
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+}
+.image2 {
+  color:#000000;
+}
+.bandeau_tuile {
+  color:#666666;
+}
+.shape1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.tab_active {
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  color:#333333;
+}
+.tab_inactive {
+  font-size:16px;
+  color:#999999;
+}
+.primary_text_dark {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
+.label_fil_ariane {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+}
+.label_fil_ariane_-_actif {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  color:#169BD5;
+}
+.header_modale_formulaire {
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.new_style1 {
+}
